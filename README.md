@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/GeniusGrandpa">[ GitHub ]</a> ·
+  <a href="https://github.com/ikkriya">[ GitHub ]</a> ·
   <a href="https://www.linkedin.com/in/ikkriya">[ LinkedIn ]</a> ·
   <a href="mailto:aniltmg871@gmail.com">[ Email ]</a>
 </p>
