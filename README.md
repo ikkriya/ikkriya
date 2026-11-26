@@ -1,7 +1,7 @@
 
 <!-- ikkriya | GitHub Profile README -->
 
-<h1 align="center">ikkriya/h1>
+<h1 align="center">ikkriya
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1800&pause=700&color=00FF9C&center=true&vCenter=true&width=650&height=80&lines=Initializing+ikkriya...;Loading+cybersecurity+modules...;Access+granted.+Welcome+back.;Ethical+Hacking+%7C+Security+Research;sudo+make+me+understand" />
