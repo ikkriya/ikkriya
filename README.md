@@ -301,7 +301,7 @@ knowledge.
 
 -   **GitHub:** [@GeniusGrandpa](https://github.com/GeniusGrandpa)
 -   **LinkedIn:** [Connect with
-    me](https://www.linkedin.com/in/anil-tamang-44660a324)
+    me](https://www.linkedin.com/in/ikkriya)
 -   **Email:** aniltmg871@gmail.com
 
 
