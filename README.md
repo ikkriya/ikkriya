@@ -12,13 +12,6 @@
   <code>~/profile</code> /
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff9c?style=flat-square&labelColor=101010" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/ikkriya">[ GitHub ]</a> ·
-  <a href="https://www.linkedin.com/in/ikkriya">[ LinkedIn ]</a> ·
-  <a href="mailto:aniltmg871@gmail.com">[ Email ]</a>
-</p>
-
 ---
 
 ### `~/boot.log`
