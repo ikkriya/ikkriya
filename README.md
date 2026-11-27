@@ -10,7 +10,7 @@
   <code>~/profile</code> /
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff9c?style=flat-square&labelColor=101010" />
 </p>
----
+
 
 ### `~/boot.log`
 
