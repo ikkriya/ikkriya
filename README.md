@@ -1,6 +1,4 @@
 
-<!-- ikkriya | GitHub Profile README -->
-
 <h1 align="center">ikkriya
 
 <p align="center">
