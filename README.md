@@ -28,8 +28,6 @@
 
 Ethical Hacking & Cybersecurity undergraduate interested in security research, Linux, web security, and building things that hopefully don't introduce more vulnerabilities.
 
-**Learn. Build. Break. Understand. Improve.**
-
 ---
 
 <details>
